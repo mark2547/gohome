@@ -1,0 +1,2 @@
+# gohome
+try git something
